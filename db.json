@@ -1,0 +1,653 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "25",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "2",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "30",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "3",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "35",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "4",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "40",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "5",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "45",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "6",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "55",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "7",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "65",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "8",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "75",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "9",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "85",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "10",
+      "name": "كياس شيال",
+      "type": "النوع الأول",
+      "size": "95",
+      "color": "أبيض - أسود",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "11",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "25",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "12",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "30",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "13",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "35",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "14",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "40",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "15",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "45",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "16",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "55",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "17",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "65",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "18",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "75",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "19",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "85",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "20",
+      "name": "كياس شيال",
+      "type": "نوع مساعدة",
+      "size": "95",
+      "color": "أبيض - أسود",
+      "price_usd": 1.6,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "21",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "25",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "22",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "30",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "23",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "35",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "24",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "40",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "25",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "45",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "26",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "55",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "27",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "65",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "28",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "75",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "29",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "85",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "30",
+      "name": "كياس شيال",
+      "type": "نوع ثاني",
+      "size": "95",
+      "color": "أبيض - أسود",
+      "price_usd": 1.5,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "31",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "10×20",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "32",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "12×20",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "33",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "15×20",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "34",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "17×20",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "35",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "20×30",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "36",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "25×35",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "37",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "30×40",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "38",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "35×50",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "39",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "40×60",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "40",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "90×60",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "41",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "70×100",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "42",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "80×120",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "43",
+      "name": "كياس شفاف",
+      "type": "شفاف",
+      "size": "100×150",
+      "color": "شفاف",
+      "price_usd": 1.7,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "44",
+      "name": "كياس ولكم منقط",
+      "type": "ولكم منقط",
+      "size": "",
+      "color": "",
+      "price_usd": 1.75,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "45",
+      "name": "مريول مرة واحدة",
+      "type": "مريول",
+      "size": "",
+      "color": "",
+      "price_usd": 0,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "46",
+      "name": "كيس خبز",
+      "type": "كيس خبز",
+      "size": "",
+      "color": "",
+      "price_usd": 0,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "47",
+      "name": "نص كيس خبز",
+      "type": "كيس خبز",
+      "size": "",
+      "color": "",
+      "price_usd": 0,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "48",
+      "name": "وش تغليف",
+      "type": "تغليف",
+      "size": "",
+      "color": "",
+      "price_usd": 0,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "49",
+      "name": "صحون الكا",
+      "type": "كبيرة",
+      "size": "كبير",
+      "color": "",
+      "price_usd": 1.14,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الدستة"
+    },
+    {
+      "id": "50",
+      "name": "صحون الكا",
+      "type": "وسط",
+      "size": "وسط",
+      "color": "",
+      "price_usd": 0.76,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الدستة"
+    },
+    {
+      "id": "51",
+      "name": "صحون الكا",
+      "type": "صغيرة",
+      "size": "صغير",
+      "color": "",
+      "price_usd": 0.46,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الدستة"
+    },
+    {
+      "id": "52",
+      "name": "معالق كريستال",
+      "type": "كريستال",
+      "size": "",
+      "color": "",
+      "price_usd": 2.89,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    },
+    {
+      "id": "53",
+      "name": "شوك كريستال",
+      "type": "كريستال",
+      "size": "",
+      "color": "",
+      "price_usd": 2.89,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    },
+    {
+      "id": "54",
+      "name": "معالق حليبي",
+      "type": "حليبي",
+      "size": "",
+      "color": "",
+      "price_usd": 1.45,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "55",
+      "name": "شوك حليبي",
+      "type": "حليبي",
+      "size": "",
+      "color": "",
+      "price_usd": 1.48,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "56",
+      "name": "رول سفرة ملون",
+      "type": "رول سفرة",
+      "size": "",
+      "color": "ملون",
+      "price_usd": 1.9,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    },
+    {
+      "id": "57",
+      "name": "كلينك غذائي",
+      "type": "غذائي",
+      "size": "",
+      "color": "",
+      "price_usd": 4.5,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو الصافي"
+    },
+    {
+      "id": "58",
+      "name": "كلينك غذائي",
+      "type": "غذائي",
+      "size": "",
+      "color": "",
+      "price_usd": 3.5,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو غير الصافي"
+    },
+    {
+      "id": "59",
+      "name": "المنيوم بكر",
+      "type": "ألمنيوم",
+      "size": "",
+      "color": "",
+      "price_usd": 7.5,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    },
+    {
+      "id": "60",
+      "name": "كلينك منزلي",
+      "type": "منزلي",
+      "size": "",
+      "color": "",
+      "price_usd": 1.05,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "61",
+      "name": "المنيوم منزلي",
+      "type": "منزلي",
+      "size": "",
+      "color": "",
+      "price_usd": 1.05,
+      "price_syp": 0,
+      "quantity": 0
+    },
+    {
+      "id": "62",
+      "name": "كياس سلوفان",
+      "type": "وطني",
+      "size": "",
+      "color": "",
+      "price_usd": 2.65,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    },
+    {
+      "id": "63",
+      "name": "كياس سلوفان",
+      "type": "أجنبي",
+      "size": "",
+      "color": "",
+      "price_usd": 3.1,
+      "price_syp": 0,
+      "quantity": 0,
+      "price_unit": "الكيلو"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
