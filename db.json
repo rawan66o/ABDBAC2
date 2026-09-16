@@ -649,5 +649,67 @@
       "price_unit": "الكيلو"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "$schema": "./node_modules/json-server/schema.json",
+  "checks": [
+    {
+      "id": "1",
+      "type": "شراء",
+      "totalAmount": 2500000,
+      "productType": "كياس شيال",
+      "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
+      "quantity": 1000,
+      "price": 1.7,
+      "notes": "تم الاستلام كامل"
+    },
+    {
+      "id": "2",
+      "type": "شراء",
+      "totalAmount": 1800000,
+      "productType": "كياس شفاف",
+      "specifications": "قياس 30×40 - شفاف",
+      "quantity": 1200,
+      "price": 1.7,
+      "notes": "دفعة أولى"
+    },
+    {
+      "id": "3",
+      "type": "بيع",
+      "totalAmount": 3200000,
+      "productType": "كياس شيال",
+      "specifications": "النوع الثاني - قياس 75 - أبيض - أسود",
+      "quantity": 2000,
+      "price": 1.5,
+      "notes": "تم التسليم للزبون"
+    },
+    {
+      "id": "4",
+      "type": "بيع",
+      "totalAmount": 1450000,
+      "productType": "معالق كريستال",
+      "specifications": "كريستال - بالكيلو",
+      "quantity": 500,
+      "price": 2.89,
+      "notes": "طلبية مطعم"
+    },
+    {
+      "id": "5",
+      "type": "شراء",
+      "totalAmount": 4100000,
+      "productType": "ألمنيوم",
+      "specifications": "ألمنيوم بكر - بالكيلو",
+      "quantity": 600,
+      "price": 7.5,
+      "notes": "بضاعة جديدة"
+    },
+    {
+      "id": "6",
+      "type": "بيع",
+      "totalAmount": 2100000,
+      "productType": "صحون الكا",
+      "specifications": "كبيرة - السعر للدستة",
+      "quantity": 1500,
+      "price": 1.14,
+      "notes": "تم البيع بالكامل"
+    }
+  ]
 }
