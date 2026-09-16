@@ -650,83 +650,32 @@
     }
   ],
   "$schema": "./node_modules/json-server/schema.json",
-  "checks": [
+"checks": [
   {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-},
+    "id": "1",
+    "checkNumber": "123456",
+    "recipientName": "محمد أحمد",
+    "signer": "روان خليل",
+    "type": "بيع",
+    "totalAmount": 2500000,
+    "productType": "كياس شيال",
+    "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
+    "quantity": 1000,
+    "price": 1.7,
+    "notes": "تم الاستلام كامل"
+  },
   {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-} , {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-},
-    {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-},
-   {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-},
-  {
-  "id": "7",
-  "checkNumber": "123456",
-  "recipientName": "محمد أحمد",
-  "signer": "روان خليل",
-  "type": "بيع",
-  "totalAmount": 2500000,
-  "productType": "كياس شيال",
-  "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-  "quantity": 1000,
-  "price": 1.7,
-  "notes": "تم الاستلام كامل"
-}
-  ]
+    "id": "2",
+    "checkNumber": "123457",
+    "recipientName": "أحمد محمد",
+    "signer": "روان خليل",
+    "type": "شراء",
+    "totalAmount": 1800000,
+    "productType": "كياس شفاف",
+    "specifications": "قياس 30×40 - شفاف",
+    "quantity": 500,
+    "price": 1.7,
+    "notes": ""
+  }
+]
 }
