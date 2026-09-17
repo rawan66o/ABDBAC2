@@ -619,80 +619,59 @@
 }
 ],
   "$schema": "./node_modules/json-server/schema.json",
-"checks": [
+"checks":[
   {
     "id": "1",
-    "checkNumber": "123456",
-    "recipientName": "محمد أحمد",
-    "signer": "روان خليل",
-    "date": "2026-09-17",
-    "دفنر": "1001",
-    "type": "بيع",
+    "customerName": "محمد أحمد",
+    "residence": "حلب - الحمدانية",
+    "date": "2026-09-18",
+    "checkNumber": "1001",
     "totalAmount": 2500000,
-    "productType": "كياس شيال",
-    "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-    "quantity": 1000,
-    "price": 1.7,
+    "items": [
+      {
+        "productType": "أكياس شيال",
+        "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
+        "quantity": 1000,
+        "priceUsd": 1.7,
+        "priceSyp": 1333
+      }
+    ],
     "notes": "تم الاستلام كامل"
   },
   {
     "id": "2",
-    "checkNumber": "123457",
-    "recipientName": "محمد أحمد",
-    "signer": "روان خليل",
-    "date": "2026-09-17",
-    "دفنر": "1002",
-    "type": "بيع",
+    "customerName": "محمد أحمد",
+    "residence": "حلب - الحمدانية",
+    "date": "2026-09-20",
+    "checkNumber": "1002",
     "totalAmount": 1800000,
-    "productType": "كياس شفاف",
-    "specifications": "قياس 30×40 - شفاف",
-    "quantity": 500,
-    "price": 1.7,
+    "items": [
+      {
+        "productType": "أكياس شفاف",
+        "specifications": "قياس 30×40 - شفاف",
+        "quantity": 500,
+        "priceUsd": 1.7,
+        "priceSyp": 1333
+      }
+    ],
     "notes": ""
   },
   {
     "id": "3",
-    "checkNumber": "123458",
-    "recipientName": "محمد أحمد",
-    "signer": "روان خليل",
-    "date": "2026-09-17",
-    "دفنر": "1003",
-    "type": "شراء",
+    "customerName": "أحمد محمد",
+    "residence": "حلب - شارع النيل",
+    "date": "2026-09-18",
+    "checkNumber": "1003",
     "totalAmount": 900000,
-    "productType": "كياس شحن",
-    "specifications": "النوع الأول - قياس 90×60 - أسود",
-    "quantity": 300,
-    "price": 1.9,
-    "notes": ""
-  },
-  {
-    "id": "4",
-    "checkNumber": "123459",
-    "recipientName": "أحمد محمد",
-    "signer": "روان خليل",
-    "date": "2026-09-17",
-    "دفنر": "1004",
-    "type": "شراء",
-    "totalAmount": 1200000,
-    "productType": "كياس شفاف",
-    "specifications": "قياس 40×60 - شفاف",
-    "quantity": 400,
-    "price": 1.85,
-    "notes": ""
-  },
-  {
-    "id": "5",
-    "checkNumber": "123460",
-    "recipientName": "أحمد محمد",
-    "signer": "روان خليل",
-    "date": "2026-09-17",
-    "دفنر": "1005",
-    "type": "بيع",
-    "totalAmount": 750000,
-    "productType": "صحون الكا",
-    "specifications": "وسط2 - أبيض",
-    "quantity": 200,
-    "price": 0.77,
+    "items": [
+      {
+        "productType": "أكياس شحن",
+        "specifications": "النوع الأول - قياس 90×60 - أسود",
+        "quantity": 300,
+        "priceUsd": 1.9,
+        "priceSyp": 1333
+      }
+    ],
     "notes": ""
   }
 ]
