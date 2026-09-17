@@ -619,12 +619,13 @@
 }
 ],
   "$schema": "./node_modules/json-server/schema.json",
-"checks":[
+"checks": [
   {
     "id": "1",
     "customerName": "محمد أحمد",
     "residence": "حلب - الحمدانية",
     "date": "2026-09-18",
+    "bookNumber": "1",
     "checkNumber": "1001",
     "totalAmount": 2500000,
     "items": [
@@ -643,6 +644,7 @@
     "customerName": "محمد أحمد",
     "residence": "حلب - الحمدانية",
     "date": "2026-09-20",
+    "bookNumber": "1",
     "checkNumber": "1002",
     "totalAmount": 1800000,
     "items": [
@@ -661,6 +663,7 @@
     "customerName": "أحمد محمد",
     "residence": "حلب - شارع النيل",
     "date": "2026-09-18",
+    "bookNumber": "2",
     "checkNumber": "1003",
     "totalAmount": 900000,
     "items": [
