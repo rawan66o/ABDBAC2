@@ -621,70 +621,1127 @@
   "$schema": "./node_modules/json-server/schema.json",
 "checks": [
   {
-    "id": "1",
-    "customerName": "محمد أحمد",
-    "residence": "حلب - الحمدانية",
-    "date": "2026-09-18",
-    "bookNumber": "1",
-    "checkNumber": "1001",
-    "exchangeRate": 15000,
-    "type": "شراء",
-    "totalAmountUsd": 1700,
-    "totalAmountSyp": 25500000,
-    "items": [
-      {
-        "productType": "أكياس شيال",
-        "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
-        "quantity": 1000,
-        "priceUsd": 1.7,
-        "priceSyp": 25500
-      }
-    ],
-    "notes": ""
-  },
-  {
-    "id": "2",
-    "customerName": "علي محمد",
-    "residence": "حلب - الفرقان",
-    "date": "2026-09-18",
-    "bookNumber": "1",
-    "checkNumber": "1002",
-    "exchangeRate": 14800,
-    "type": "شراء",
-    "totalAmountUsd": 2550,
-    "totalAmountSyp": 37740000,
-    "items": [
-      {
-        "productType": "أكياس شيال",
-        "specifications": "النوع الأول - قياس 75 - أبيض - أسود",
-        "quantity": 1500,
-        "priceUsd": 1.7,
-        "priceSyp": 25160
-      }
-    ],
-    "notes": ""
-  },
-  {
-    "id": "3",
-    "customerName": "خالد أحمد",
-    "residence": "حلب - العزيزية",
-    "date": "2026-09-18",
-    "bookNumber": "2",
-    "checkNumber": "1003",
-    "exchangeRate": 15200,
+    "id": "1789757853162",
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-01-08",
+    "checkNumber": "0020010",
+    "bookNumber": "3",
+    "exchangeRate": 132,
     "type": "بيع",
-    "totalAmountUsd": 1600,
-    "totalAmountSyp": 24320000,
+    "totalAmountUsd": 27.5,
+    "totalAmountSyp": 0,
     "items": [
       {
-        "productType": "أكياس شيال",
-        "specifications": "نوع مساعدة - قياس 65 - أبيض - أسود",
-        "quantity": 1000,
-        "priceUsd": 1.6,
-        "priceSyp": 24320
+        "productType": "اكياس",
+        "specifications": "اكياس قمامه",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
       }
     ],
-    "notes": "دفعة أولى"
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853163",
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-08",
+    "checkNumber": "002012",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 64.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس قمامه",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس85اول",
+        "quantity": 5,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "شليمون",
+        "specifications": "شليمون ملون",
+        "quantity": 10,
+        "priceUsd": 2.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853164",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-08",
+    "checkNumber": "002011",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 100,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس قمامه",
+        "quantity": 100,
+        "priceUsd": 1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853165",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-08",
+    "checkNumber": "002013",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 65,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس مخابز",
+        "quantity": 20,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس خساره",
+        "quantity": 20,
+        "priceUsd": 1.65,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853166",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-11-08",
+    "checkNumber": "002014",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 56.06,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس زمزم45",
+        "quantity": 20,
+        "priceUsd": 1.725,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "اكياس سيلفر 55",
+        "quantity": 12.5,
+        "priceUsd": 1.725,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853167",
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-12-08",
+    "checkNumber": "002015",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 91.5,
+    "totalAmountSyp": 3000,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      },
+      {
+        "productType": "شليمون",
+        "specifications": "ملون",
+        "quantity": 10,
+        "priceUsd": 2.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "زمزم45",
+        "quantity": 10,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "زمزم55",
+        "quantity": 10,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بدر كبار",
+        "quantity": 20,
+        "priceUsd": 0,
+        "priceSyp": 150
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853168",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-08-15",
+    "checkNumber": "002016",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 43.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف",
+        "quantity": 25,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853169",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-08-26",
+    "checkNumber": "002017",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 30,
+    "totalAmountSyp": 4750,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "غنى80×120",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "معالق",
+        "specifications": "حليبي",
+        "quantity": 25,
+        "priceUsd": 0,
+        "priceSyp": 190
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853170",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-08-27",
+    "checkNumber": "002018",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 17.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853171",
+    "customerName": "السيد براهيم غزال المحترم",
+    "residence": "حلب",
+    "date": "2026-08-30",
+    "checkNumber": "002019",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 73.4,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "رول",
+        "specifications": "سفره ملون",
+        "quantity": 5,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "6اونص",
+        "quantity": 10,
+        "priceUsd": 0.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "9اونص",
+        "quantity": 10,
+        "priceUsd": 0.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا صغار",
+        "quantity": 10,
+        "priceUsd": 0.9,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا كبير",
+        "quantity": 10,
+        "priceUsd": 1.14,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853172",
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-08-30",
+    "checkNumber": "002020",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 61.25,
+    "totalAmountSyp": 350,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف60×40",
+        "quantity": 5,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شقاف 80×120",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شقاف12×20",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "زمزم35",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "عيدان",
+        "specifications": "خشب صغيره",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 70
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853173",
+    "customerName": "السيد ماجد لاوند المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-08-31",
+    "checkNumber": "002021",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "لايوجد"
+  },
+  {
+    "id": "1789757853174",
+    "customerName": "السيد ابو امين المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-08-31",
+    "checkNumber": "002021",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 75,
+        "priceUsd": 1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-08-31",
+    "checkNumber": "002023",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 18,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "اول 80×120",
+        "quantity": 10,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "",
+    "id": "1789757853175"
+  },
+  {
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-09-03",
+    "checkNumber": "002024",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 70,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "ابيض خساره40",
+        "quantity": 20,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "زمزم40",
+        "quantity": 20,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "",
+    "id": "1789757853176"
+  },
+  {
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-03-09",
+    "checkNumber": "002025",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 8.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شيال75",
+        "quantity": 5,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "",
+    "id": "1789757853177"
+  },
+  {
+    "id": "1789757853178",
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-05",
+    "checkNumber": "002026",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 59.12,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكيا",
+        "specifications": "25×35شفاف",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "منقط ولكم",
+        "quantity": 8,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "معالق",
+        "specifications": "كرستال",
+        "quantity": 3,
+        "priceUsd": 2.88,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا كبار",
+        "quantity": 10,
+        "priceUsd": 1.14,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا وسط",
+        "quantity": 10,
+        "priceUsd": 0.758,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853179",
+    "customerName": "السيد جورج كيفو المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-06",
+    "checkNumber": "002027",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 65,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه",
+        "quantity": 25,
+        "priceUsd": 1,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "مساعده مشكل",
+        "quantity": 25,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853180",
+    "customerName": "السيد براهيم غزال المحترم",
+    "residence": "حلب",
+    "date": "2026-09-06",
+    "checkNumber": "002028",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 24.4,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "كلينك",
+        "specifications": "منزلي",
+        "quantity": 10,
+        "priceUsd": 1.22,
+        "priceSyp": 0
+      },
+      {
+        "productType": "سلوفان",
+        "specifications": "منزلي",
+        "quantity": 10,
+        "priceUsd": 1.22,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "customerName": "السيد انور غزال المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-08",
+    "checkNumber": "002029",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 42.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×120شحن اول",
+        "quantity": 1.7,
+        "priceUsd": 25,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "",
+    "id": "1789757853181"
+  },
+  {
+    "id": "1789757853182",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-09-13",
+    "checkNumber": "002030",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 117,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض35",
+        "quantity": 20,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض45",
+        "quantity": 20,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "كولا شفاف",
+        "quantity": 25,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853183",
+    "customerName": "السيد انو علامو المحترم",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-13",
+    "checkNumber": "002031",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 17.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "سلوفان اجنبي",
+        "quantity": 5,
+        "priceUsd": 3.5,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853184",
+    "customerName": "السيد عمرو عساف المحترم",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-09-14",
+    "checkNumber": "002032",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 35,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "مساعده70×100",
+        "quantity": 20,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853185",
+    "customerName": "السيد براهيم غزال المحترم",
+    "residence": "حلب",
+    "date": "2026-09-15",
+    "checkNumber": "002033",
+    "bookNumber": "3",
+    "exchangeRate": 132,
+    "type": "بيع",
+    "totalAmountUsd": 34,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "مساعده مشكل",
+        "quantity": 20,
+        "priceUsd": 1.7,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853186",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-08-30",
+    "checkNumber": "008651",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 12158,
+    "items": [
+      {
+        "productType": "رول",
+        "specifications": "سفره",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 220
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "6اونص",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 60
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "9اونص",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 95
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا صغير",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 50
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا كبير",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 125
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "مشكل اول",
+        "quantity": 35,
+        "priceUsd": 0,
+        "priceSyp": 214.5
+      },
+      {
+        "productType": "عيدان",
+        "specifications": "خشب صغيره",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 50
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853187",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-08-31",
+    "checkNumber": "008653",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 16.25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×120اول",
+        "quantity": 10,
+        "priceUsd": 1.625,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853188",
+    "customerName": "السيد حسام ناصر المحترم",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-08-31",
+    "checkNumber": "008652",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 92.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه",
+        "quantity": 100,
+        "priceUsd": 0.925,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853189",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-03",
+    "checkNumber": "008654",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 61.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض",
+        "quantity": 20,
+        "priceUsd": 1.45,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "زمزم40",
+        "quantity": 20,
+        "priceUsd": 1.625,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853190",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-03",
+    "checkNumber": "008655",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 8,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شيال75",
+        "quantity": 5,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853191",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-05",
+    "checkNumber": "008656",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 53.22,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شقاف25×35",
+        "quantity": 10,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "منقط ولكم",
+        "quantity": 8,
+        "priceUsd": 1.625,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا كبير",
+        "quantity": 10,
+        "priceUsd": 0.946,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا وسط",
+        "quantity": 10,
+        "priceUsd": 0.681,
+        "priceSyp": 0
+      },
+      {
+        "productType": "معالق",
+        "specifications": "كرستال",
+        "quantity": 3,
+        "priceUsd": 2.65,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853192",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-06",
+    "checkNumber": "008657",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 35,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره مشكل",
+        "quantity": 25,
+        "priceUsd": 1.4,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853193",
+    "customerName": "السيد حسام ناصر المحترم",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-09-06",
+    "checkNumber": "008658",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 23.13,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 0.925,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853194",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-06",
+    "checkNumber": "008659",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 2600,
+    "items": [
+      {
+        "productType": "كلينك",
+        "specifications": "منزلي",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 130
+      },
+      {
+        "productType": "سلوفان",
+        "specifications": "منزلي",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 130
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853195",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-09",
+    "checkNumber": "008660",
+    "bookNumber": "1",
+    "exchangeRate": 132,
+    "type": "شراء",
+    "totalAmountUsd": 40,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شحن 80×120",
+        "quantity": 25,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853196",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-13",
+    "checkNumber": "008661",
+    "bookNumber": "1",
+    "exchangeRate": 133.5,
+    "type": "شراء",
+    "totalAmountUsd": 93,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره35",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره45",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شفاش كولا",
+        "quantity": 20,
+        "priceUsd": 1.65,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853197",
+    "customerName": "السيد حسام ناصر المحترم",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-09-13",
+    "checkNumber": "008662",
+    "bookNumber": "1",
+    "exchangeRate": 133,
+    "type": "شراء",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 1900,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "سلوفان اجنبي",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 380
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853198",
+    "customerName": "السيد توفيق نجار المحترم",
+    "residence": "حلب-المشارقه",
+    "date": "2026-09-14",
+    "checkNumber": "008663",
+    "bookNumber": "1",
+    "exchangeRate": 134,
+    "type": "شراء",
+    "totalAmountUsd": 32,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شحن مساعد70×100",
+        "quantity": 20,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853199",
+    "customerName": "السيد محمد نحاس المحترم",
+    "residence": "حلب-التلل",
+    "date": "2026-09-15",
+    "checkNumber": "008664",
+    "bookNumber": "1",
+    "exchangeRate": 135.5,
+    "type": "شراء",
+    "totalAmountUsd": 30,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره مشكل",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ]
 }
