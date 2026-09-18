@@ -627,55 +627,64 @@
     "date": "2026-09-18",
     "bookNumber": "1",
     "checkNumber": "1001",
-    "totalAmount": 2500000,
+    "exchangeRate": 15000,
+    "type": "شراء",
+    "totalAmountUsd": 1700,
+    "totalAmountSyp": 25500000,
     "items": [
       {
         "productType": "أكياس شيال",
         "specifications": "النوع الأول - قياس 55 - أبيض - أسود",
         "quantity": 1000,
         "priceUsd": 1.7,
-        "priceSyp": 1333
+        "priceSyp": 25500
       }
     ],
-    "notes": "تم الاستلام كامل"
+    "notes": ""
   },
   {
     "id": "2",
-    "customerName": "محمد أحمد",
-    "residence": "حلب - الحمدانية",
-    "date": "2026-09-20",
+    "customerName": "علي محمد",
+    "residence": "حلب - الفرقان",
+    "date": "2026-09-18",
     "bookNumber": "1",
     "checkNumber": "1002",
-    "totalAmount": 1800000,
+    "exchangeRate": 14800,
+    "type": "شراء",
+    "totalAmountUsd": 2550,
+    "totalAmountSyp": 37740000,
     "items": [
       {
-        "productType": "أكياس شفاف",
-        "specifications": "قياس 30×40 - شفاف",
-        "quantity": 500,
+        "productType": "أكياس شيال",
+        "specifications": "النوع الأول - قياس 75 - أبيض - أسود",
+        "quantity": 1500,
         "priceUsd": 1.7,
-        "priceSyp": 1333
+        "priceSyp": 25160
       }
     ],
     "notes": ""
   },
   {
     "id": "3",
-    "customerName": "أحمد محمد",
-    "residence": "حلب - شارع النيل",
+    "customerName": "خالد أحمد",
+    "residence": "حلب - العزيزية",
     "date": "2026-09-18",
     "bookNumber": "2",
     "checkNumber": "1003",
-    "totalAmount": 900000,
+    "exchangeRate": 15200,
+    "type": "بيع",
+    "totalAmountUsd": 1600,
+    "totalAmountSyp": 24320000,
     "items": [
       {
-        "productType": "أكياس شحن",
-        "specifications": "النوع الأول - قياس 90×60 - أسود",
-        "quantity": 300,
-        "priceUsd": 1.9,
-        "priceSyp": 1333
+        "productType": "أكياس شيال",
+        "specifications": "نوع مساعدة - قياس 65 - أبيض - أسود",
+        "quantity": 1000,
+        "priceUsd": 1.6,
+        "priceSyp": 24320
       }
     ],
-    "notes": ""
+    "notes": "دفعة أولى"
   }
 ]
 }
