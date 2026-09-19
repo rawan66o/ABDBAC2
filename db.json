@@ -616,16 +616,6 @@
     "price_syp": 1333,
     "quantity": "25",
     "id": "Ehc1RPx"
-  },
-  {
-    "name": "عع",
-    "type": "وو",
-    "size": "25",
-    "color": "تت",
-    "price_usd": 69,
-    "price_syp": 136.5,
-    "quantity": "222",
-    "id": "jfOJ-Ck"
   }
 ],
   "$schema": "./node_modules/json-server/schema.json",
