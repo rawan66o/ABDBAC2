@@ -629,6 +629,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 27.5,
     "totalAmountSyp": 0,
     "items": [
@@ -651,6 +652,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 64.5,
     "totalAmountSyp": 0,
     "items": [
@@ -687,6 +689,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 100,
     "totalAmountSyp": 0,
     "items": [
@@ -709,6 +712,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 65,
     "totalAmountSyp": 0,
     "items": [
@@ -738,6 +742,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 56.06,
     "totalAmountSyp": 0,
     "items": [
@@ -767,6 +772,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 91.5,
     "totalAmountSyp": 3000,
     "items": [
@@ -817,6 +823,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 43.75,
     "totalAmountSyp": 0,
     "items": [
@@ -839,6 +846,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 30,
     "totalAmountSyp": 4750,
     "items": [
@@ -890,6 +898,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 73.4,
     "totalAmountSyp": 0,
     "items": [
@@ -947,6 +956,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 61.25,
     "totalAmountSyp": 350,
     "items": [
@@ -997,6 +1007,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 25,
     "totalAmountSyp": 0,
     "items": [
@@ -1019,6 +1030,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 75,
     "totalAmountSyp": 0,
     "items": [
@@ -1040,6 +1052,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 18,
     "totalAmountSyp": 0,
     "items": [
@@ -1062,6 +1075,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 70,
     "totalAmountSyp": 0,
     "items": [
@@ -1091,6 +1105,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 8.75,
     "totalAmountSyp": 0,
     "items": [
@@ -1114,6 +1129,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 59.12,
     "totalAmountSyp": 0,
     "items": [
@@ -1164,6 +1180,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 65,
     "totalAmountSyp": 0,
     "items": [
@@ -1193,6 +1210,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 24.4,
     "totalAmountSyp": 0,
     "items": [
@@ -1221,6 +1239,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 42.5,
     "totalAmountSyp": 0,
     "items": [
@@ -1244,6 +1263,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+      "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 117,
     "totalAmountSyp": 0,
     "items": [
@@ -1280,6 +1300,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 17.5,
     "totalAmountSyp": 0,
     "items": [
@@ -1302,6 +1323,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 35,
     "totalAmountSyp": 0,
     "items": [
@@ -1324,6 +1346,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
+    "paymentStatus": "غير مقبوض",
     "totalAmountUsd": 34,
     "totalAmountSyp": 0,
     "items": [
@@ -1346,6 +1369,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 0,
     "totalAmountSyp": 12158,
     "items": [
@@ -1410,6 +1434,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 16.25,
     "totalAmountSyp": 0,
     "items": [
@@ -1432,6 +1457,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 92.5,
     "totalAmountSyp": 0,
     "items": [
@@ -1454,6 +1480,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 61.5,
     "totalAmountSyp": 0,
     "items": [
@@ -1483,6 +1510,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 8,
     "totalAmountSyp": 0,
     "items": [
@@ -1505,6 +1533,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 53.22,
     "totalAmountSyp": 0,
     "items": [
@@ -1555,6 +1584,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 35,
     "totalAmountSyp": 0,
     "items": [
@@ -1577,6 +1607,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 23.13,
     "totalAmountSyp": 0,
     "items": [
@@ -1599,6 +1630,7 @@
     "bookNumber": "1",
     "exchangeRate": 132,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 0,
     "totalAmountSyp": 2600,
     "items": [
@@ -1627,7 +1659,8 @@
     "checkNumber": "008660",
     "bookNumber": "1",
     "exchangeRate": 132,
-    "type": "شراء",
+    "type": "شراء", 
+    "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 40,
     "totalAmountSyp": 0,
     "items": [
@@ -1650,6 +1683,7 @@
     "bookNumber": "1",
     "exchangeRate": 133.5,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 93,
     "totalAmountSyp": 0,
     "items": [
@@ -1686,6 +1720,7 @@
     "bookNumber": "1",
     "exchangeRate": 133,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 0,
     "totalAmountSyp": 1900,
     "items": [
@@ -1708,6 +1743,7 @@
     "bookNumber": "1",
     "exchangeRate": 134,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 32,
     "totalAmountSyp": 0,
     "items": [
@@ -1730,6 +1766,7 @@
     "bookNumber": "1",
     "exchangeRate": 135.5,
     "type": "شراء",
+     "paymentStatus": "غير مدفوع",
     "totalAmountUsd": 30,
     "totalAmountSyp": 0,
     "items": [
