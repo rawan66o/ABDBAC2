@@ -202,8 +202,8 @@
     "type": "النوع الاول",
     "size": "واحد1",
     "color": "شفاف",
-    "price_usd": 2.86,
-    "price_syp": 136.5,
+    "price_usd": 2.9,
+    "price_syp": 138,
     "quantity": "25",
     "id": "5bc2VEc"
   },
@@ -212,8 +212,8 @@
     "type": "النوع الاول",
     "size": "واحد1",
     "color": "ابيض",
-    "price_usd": 1.45,
-    "price_syp": 136.5,
+    "price_usd": 1.5,
+    "price_syp": 138,
     "quantity": "25",
     "id": "1z5IpkL"
   },
