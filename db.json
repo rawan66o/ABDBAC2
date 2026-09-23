@@ -2045,6 +2045,68 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853208",
+    "customerName": "السيد جورج كيفو المحترم",
+    "phone": "0933131496",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-23",
+    "checkNumber": "002039",
+    "bookNumber": "3",
+    "exchangeRate": 137,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 9.15,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "اندومي",
+        "quantity": 3,
+        "priceUsd": 2.2,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "شاي",
+        "quantity": 3,
+        "priceUsd": 0.85,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853209",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-09-23",
+    "checkNumber": "008670",
+    "bookNumber": "1",
+    "exchangeRate": 137,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 7.95,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "اندومي",
+        "quantity": 3,
+        "priceUsd": 2,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "شاي",
+        "quantity": 3,
+        "priceUsd": 0.65,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -2127,6 +2189,22 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "كشف رقم 008669دفتر رقم 1\nاكياس خساره ابيض 10كغ\nاكياس ابيض اول 5كغ \nعلب موالح بلاستيك 1=50علبه\n1.45$\n1.7.$\n25ل.س .ج\n23$\n1250ل.س.ج"
+  },
+  {
+    "id": "1790174830746",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-09-23",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008670دفتر رقم 1\nكاسات شاي د3\nكاسات شاي د3"
+  },
+  {
+    "id": "1790174935295",
+    "customerName": "السيد جورج كيفو مخزن فرح المحترم",
+    "date": "2026-09-23",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002038دفتر رقم 3\nكاسات شاي د3 \nكاسات اندومي د3"
   }
 ],
 "debts":[]
