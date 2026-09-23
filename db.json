@@ -392,9 +392,9 @@
     "type": "كرتون",
     "size": "16اونص",
     "color": "كافة الالوان",
-    "price_usd": 2.1,
-    "price_syp": 137,
-    "quantity": 20,
+    "price_usd": 2.2,
+    "price_syp": 139,
+    "quantity": "20",
     "id": "8Iutn21"
   },
   {
@@ -402,9 +402,9 @@
     "type": "كرتون",
     "size": "3اونص",
     "color": "كافة الالوان",
-    "price_usd": 0.75,
-    "price_syp": 137,
-    "quantity": 20,
+    "price_usd": 0.8,
+    "price_syp": 139,
+    "quantity": "20",
     "id": "8q44tYR"
   },
   {
@@ -412,9 +412,9 @@
     "type": "بلاستيك",
     "size": "150م",
     "color": "شفاف",
-    "price_usd": 0.65,
-    "price_syp": 137,
-    "quantity": 30,
+    "price_usd": 0.7,
+    "price_syp": 139,
+    "quantity": "30",
     "id": "srfufOt"
   },
   {
@@ -422,9 +422,9 @@
     "type": "بلاستيك",
     "size": "200م",
     "color": "شفاف",
-    "price_usd": 0.95,
-    "price_syp": 137,
-    "quantity": 30,
+    "price_usd": 1,
+    "price_syp": 139,
+    "quantity": "30",
     "id": "ciTGeRe"
   },
   {
