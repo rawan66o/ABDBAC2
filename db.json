@@ -1928,6 +1928,123 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853204",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-23",
+    "checkNumber": "002036",
+    "bookNumber": "3",
+    "exchangeRate": 137,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 27.75,
+    "totalAmountSyp": 1400,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "ابيض",
+        "quantity": 15,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "علب",
+        "specifications": "بلاستيك موالح",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 28
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853205",
+    "customerName": "السيد ابو امين المحترم",
+    "phone": "0988539389",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-23",
+    "checkNumber": "002037",
+    "bookNumber": "3",
+    "exchangeRate": 140,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 27.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853206",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-09-23",
+    "checkNumber": "00869",
+    "bookNumber": "1",
+    "exchangeRate": 137,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 23,
+    "totalAmountSyp": 1250,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض 45/55",
+        "quantity": 10,
+        "priceUsd": 1.45,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "ابيض اول 65",
+        "quantity": 5,
+        "priceUsd": 1.7,
+        "priceSyp": 0
+      },
+      {
+        "productType": "علب بلاستيك",
+        "specifications": "موالح",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 25
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853207",
+    "customerName": "السيد حسام ناصر المحترم",
+    "phone": "0992197459",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-09-23",
+    "checkNumber": "008668",
+    "bookNumber": "1",
+    "exchangeRate": 137,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 23.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 0.95,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -1978,6 +2095,38 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "رقم الكشف 008667 دفتر رقم 1\nأكياس شيال اسود نوع اول 45كغ\n35$\nمعالق حليبي 25كغ \n31.75$\n\n66.75$"
+  },
+  {
+    "id": "1790167141858",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-09-23",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "اكياس شيال ابيض 15كيلو 1.85$\nعلب موالح بلاستيك 28 ل.س.ج\n27.75$\n1400ل.س.ج\nكشف رقم 002036\nدفتر رقم 3"
+  },
+  {
+    "id": "1790167223594",
+    "customerName": "السيد ابو امين المحترم",
+    "date": "2026-09-23",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "اكياس قمامه غنى 25كيلو \n1.1$\n27.5$\nكشف رقم 002037\nدفتر رقم 3"
+  },
+  {
+    "id": "1790167306195",
+    "customerName": "السيد حسام ناصر المحترم",
+    "date": "2026-09-23",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "اكياس قمامه غنى 25كيلو \n0.950$\n23.75$\nكشف رقم 008668\nدفتر رقم 1"
+  },
+  {
+    "id": "1790167479467",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-09-23",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008669دفتر رقم 1\nاكياس خساره ابيض 10كغ\nاكياس ابيض اول 5كغ \nعلب موالح بلاستيك 1=50علبه\n1.45$\n1.7.$\n25ل.س .ج\n23$\n1250ل.س.ج"
   }
 ],
 "debts":[]
