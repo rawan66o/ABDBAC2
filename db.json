@@ -362,9 +362,9 @@
     "type": "كرتون",
     "size": "4اونص",
     "color": "كافة الالوان",
-    "price_usd": 3.9,
-    "price_syp": 137,
-    "quantity": 40,
+    "price_usd": 0.45,
+    "price_syp": 139,
+    "quantity": "40",
     "id": "ei4xtZ-"
   },
   {
@@ -372,9 +372,9 @@
     "type": "كرتون",
     "size": "6 اونص",
     "color": "كافة الالوان",
-    "price_usd": 0.45,
-    "price_syp": 137,
-    "quantity": 60,
+    "price_usd": 0.55,
+    "price_syp": 139,
+    "quantity": "60",
     "id": "DF6YUu2"
   },
   {
