@@ -2107,6 +2107,92 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853210",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-25",
+    "checkNumber": "002039",
+    "bookNumber": "3",
+    "exchangeRate": 137,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 16.65,
+    "totalAmountSyp": 2600,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "شفاف",
+        "quantity": 9,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "فلين",
+        "specifications": "وسط",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 260
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853211",
+    "customerName": "السيد ابو امين المحترم",
+    "phone": "0988539389",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-25",
+    "checkNumber": "002040",
+    "bookNumber": "3",
+    "exchangeRate": 140,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 20.35,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف",
+        "quantity": 11,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853212",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-09-25",
+    "checkNumber": "008671",
+    "bookNumber": "1",
+    "exchangeRate": 137,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 34,
+    "totalAmountSyp": 2400,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "شفاف مشكل",
+        "quantity": 20,
+        "priceUsd": 1.7,
+        "priceSyp": 0
+      },
+      {
+        "productType": "فلين",
+        "specifications": "وسط",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 240
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -2205,6 +2291,30 @@
     "transactionType": "بيع",
     "paymentStatus": "مقبوض",
     "notes": "كشف رقم 002038دفتر رقم 3\nكاسات شاي د3 \nكاسات اندومي د3"
+  },
+  {
+    "id": "1790362094563",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-09-24",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008671\n43$ اكياس شفاف\n2400ل.س.ج"
+  },
+  {
+    "id": "1790362153118",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-09-24",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002039 دفتر رقم 3 \nاكياس شفاف 9كغ \nفلين وسك د10"
+  },
+  {
+    "id": "1790362217823",
+    "customerName": "السيد ابو امين المحترم",
+    "date": "2026-09-24",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002040دفتر رقم 3 \nاكاس شفاف مشكل  \n20.35$"
   }
 ],
 "debts":[]
