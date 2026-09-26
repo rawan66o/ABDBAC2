@@ -302,9 +302,9 @@
     "type": "النوع الاول",
     "size": "زيرو",
     "color": "ابيض",
-    "price_usd": 1.25,
-    "price_syp": 137,
-    "quantity": 50,
+    "price_usd": 1.2,
+    "price_syp": 139,
+    "quantity": "50",
     "id": "hZTcuBC"
   },
   {
@@ -312,9 +312,9 @@
     "type": "النوع الاول",
     "size": "مربع واحد",
     "color": "ابيض",
-    "price_usd": 1.4,
-    "price_syp": 137,
-    "quantity": 50,
+    "price_usd": 1.45,
+    "price_syp": 139,
+    "quantity": "50",
     "id": "kdIdLzp"
   },
   {
@@ -322,9 +322,9 @@
     "type": "النوع الاول",
     "size": "مستطيل وسط",
     "color": "ابيض",
-    "price_usd": 2,
-    "price_syp": 137,
-    "quantity": 50,
+    "price_usd": 1.9,
+    "price_syp": 139,
+    "quantity": "50",
     "id": "eYzkl8D"
   },
   {
