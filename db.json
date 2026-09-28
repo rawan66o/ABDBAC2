@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 139,
+    "price_syp": 138.5,
     "quantity": "25-20",
     "id": "1"
   },
@@ -292,9 +292,9 @@
     "type": "النوع الاول",
     "size": "2",
     "color": "كافة الالوان",
-    "price_usd": 2.9,
-    "price_syp": 137,
-    "quantity": 10,
+    "price_usd": 2.8,
+    "price_syp": 139,
+    "quantity": "10",
     "id": "eHD00pR"
   },
   {
