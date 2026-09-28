@@ -2424,6 +2424,22 @@
     "transactionType": "بيع",
     "paymentStatus": "مقبوض",
     "notes": "كشف رقم 002040دفتر رقم 3 \nاكاس شفاف مشكل  \n20.35$"
+  },
+  {
+    "id": "1790628170731",
+    "customerName": "السيد محمد نحاس",
+    "date": "2026-09-28",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008672دفتر 1"
+  },
+  {
+    "id": "1790628199753",
+    "customerName": "السيد سامر زاكري المحترم",
+    "date": "2026-09-28",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008673دفتر رقم 1"
   }
 ],
 "debts":[],
