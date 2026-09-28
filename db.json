@@ -2193,6 +2193,115 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853215",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-09-28",
+    "checkNumber": "008672",
+    "bookNumber": "1",
+    "exchangeRate": 138,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 52.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "مخابز",
+        "quantity": 20,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس شفاف",
+        "specifications": "60×90",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [
+      {
+        "productType": "اكياس",
+        "specifications": "مخابز",
+        "quantity": 15,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "returnNotes": "خصم 2$",
+    "notes": "",
+    "netTotalUsd": 26.25,
+    "netTotalSyp": 0
+  },
+  {
+    "id": "1789757853216",
+    "customerName": "السيد سامر زاكري المحترم",
+    "phone": "0938491263",
+    "residence": "حلب -الشعار",
+    "date": "2026-09-28",
+    "checkNumber": "008673",
+    "bookNumber": "1",
+    "exchangeRate": 137,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 43.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "شفاف 30×20",
+        "quantity": 5,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف40×60",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف25×35",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853217",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-09-28",
+    "checkNumber": "002041",
+    "bookNumber": "3",
+    "exchangeRate": 137,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "totalAmountUsd": 37,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "مخابز",
+        "quantity": 20,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
   }
 ],
 "daily":[
