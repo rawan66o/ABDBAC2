@@ -2442,7 +2442,17 @@
     "notes": "كشف رقم 008673دفتر رقم 1"
   }
 ],
-"debts":[],
+"debts":[
+  {
+    "id": "1790628261913",
+    "personName": "السيد انور غزال",
+    "date": "2026-09-28",
+    "checkNumber": "002041",
+    "debtType": "customer",
+    "amountUsd": 0,
+    "amountSyp": 0
+  }
+],
 "capital": [
   {
     "id": "1",
