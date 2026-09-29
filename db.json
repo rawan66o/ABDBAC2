@@ -2273,9 +2273,19 @@
         "priceSyp": 0
       }
     ],
-    "returnItems": [],
+    "returnItems": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف25×35",
+        "quantity": 1.6,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
     "returnNotes": "",
-    "notes": ""
+    "notes": "",
+    "netTotalUsd": 40.95,
+    "netTotalSyp": 0
   },
   {
     "id": "1789757853217",
@@ -2302,6 +2312,70 @@
     "returnItems": [],
     "returnNotes": "",
     "notes": ""
+  },
+  {
+    "id": "1789757853218",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-09-29",
+    "checkNumber": "002044",
+    "bookNumber": "3",
+    "exchangeRate": 138.7,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 64.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "60×90 شفاف",
+        "quantity": 10,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "أكياس",
+        "specifications": "20×30",
+        "quantity": 5,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "25×35شفاف",
+        "quantity": 10,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "40×60شفاف",
+        "quantity": 10,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [
+      {
+        "productType": "اكياس",
+        "specifications": "60×90 شفاف",
+        "quantity": 10,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "25×35شفاف",
+        "quantity": 3,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnNotes": "",
+    "notes": "",
+    "netTotalUsd": 40.7,
+    "netTotalSyp": 0
   }
 ],
 "daily":[
@@ -2440,19 +2514,17 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "كشف رقم 008673دفتر رقم 1"
-  }
-],
-"debts":[
+  },
   {
-    "id": "1790628261913",
-    "personName": "السيد انور غزال",
-    "date": "2026-09-28",
-    "checkNumber": "002041",
-    "debtType": "customer",
-    "amountUsd": 0,
-    "amountSyp": 0
+    "id": "1790674789671",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-09-29",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002044 رقم الدفتر 3"
   }
 ],
+"debts":[],
 "capital": [
   {
     "id": "1",
