@@ -2376,6 +2376,91 @@
     "notes": "",
     "netTotalUsd": 40.7,
     "netTotalSyp": 0
+  },
+  {
+    "id": "1789757853219",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-09-30",
+    "checkNumber": "002044",
+    "bookNumber": "3",
+    "exchangeRate": 138.3,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 133.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "70×100مساعده",
+        "quantity": 50,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره 25",
+        "quantity": 25,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853220",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-09-30",
+    "checkNumber": "008675",
+    "bookNumber": "1",
+    "exchangeRate": 138,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 30,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره25",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853221",
+    "customerName": "السيد سامر زاكري المحترم",
+    "phone": "0938491263",
+    "residence": "حلب -الشعار",
+    "date": "2026-09-30",
+    "checkNumber": "008674",
+    "bookNumber": "1",
+    "exchangeRate": 138,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 77.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "70×100مساعده",
+        "quantity": 50,
+        "priceUsd": 1.55,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
   }
 ],
 "daily":[
@@ -2522,6 +2607,30 @@
     "transactionType": "بيع",
     "paymentStatus": "مقبوض",
     "notes": "كشف رقم 002044 رقم الدفتر 3"
+  },
+  {
+    "id": "1790845486005",
+    "customerName": "السيد عمر عساف المحترم",
+    "date": "2026-09-30",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002044 دفتر رقم 3 \n133.75$"
+  },
+  {
+    "id": "1790845548222",
+    "customerName": "السيد سامر زاكري المحترم",
+    "date": "2026-09-30",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008674دفتر رقم 1\n77.5$"
+  },
+  {
+    "id": "1790845608108",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-09-30",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008675دفتر رقم 1\n30$"
   }
 ],
 "debts":[],
