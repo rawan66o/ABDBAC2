@@ -654,7 +654,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "totalAmountUsd": 64.5,
     "totalAmountSyp": 0,
     "items": [
@@ -680,7 +680,11 @@
         "priceSyp": 0
       }
     ],
-    "notes": "لايوجد"
+    "notes": "لايوجد",
+    "returnItems": [],
+    "returnNotes": "",
+    "netTotalUsd": 64.5,
+    "netTotalSyp": 0
   },
   {
     "customerName": "السيد عمرو عساف المحترم",
@@ -778,7 +782,7 @@
     "bookNumber": "3",
     "exchangeRate": 132,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "totalAmountUsd": 91.5,
     "totalAmountSyp": 3000,
     "items": [
@@ -818,7 +822,11 @@
         "priceSyp": 150
       }
     ],
-    "notes": "لايوجد"
+    "notes": "لايوجد",
+    "returnItems": [],
+    "returnNotes": "",
+    "netTotalUsd": 91.5,
+    "netTotalSyp": 3000
   },
   {
     "customerName": "السيد عمرو عساف المحترم",
@@ -1829,7 +1837,7 @@
     "bookNumber": "3",
     "exchangeRate": 136.5,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "totalAmountUsd": 25,
     "totalAmountSyp": 0,
     "items": [
@@ -1841,7 +1849,11 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "returnItems": [],
+    "returnNotes": "",
+    "netTotalUsd": 25,
+    "netTotalSyp": 0
   },
   {
     "customerName": "السيد حسام ناصر المحترم",
@@ -2461,6 +2473,190 @@
     "returnItems": [],
     "returnNotes": "",
     "notes": ""
+  },
+  {
+    "id": "1789757853222",
+    "customerName": "السيد محمد قطان المحترم",
+    "phone": "0933501600",
+    "residence": "حلب -الفيض",
+    "date": "2026-10-06",
+    "checkNumber": "008676",
+    "bookNumber": "1",
+    "exchangeRate": 138.7,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 71.25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 75,
+        "priceUsd": 0.95,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853223",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-06",
+    "checkNumber": "008677",
+    "bookNumber": "1",
+    "exchangeRate": 138.5,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 90,
+    "totalAmountSyp": 1300,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره 55-55ابيض35-اسود",
+        "quantity": 60,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا وسط",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 85
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "4اونص",
+        "quantity": 10,
+        "priceUsd": 0,
+        "priceSyp": 45
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853224",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-06",
+    "checkNumber": "002046",
+    "bookNumber": "3",
+    "exchangeRate": 138.7,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "غنى",
+        "quantity": 25,
+        "priceUsd": 1,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853225",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-06",
+    "checkNumber": "002048",
+    "bookNumber": "3",
+    "exchangeRate": 138.7,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 129,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره 55-55ابيض",
+        "quantity": 40,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "قمامة",
+        "quantity": 50,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853226",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-06",
+    "checkNumber": "002049",
+    "bookNumber": "3",
+    "exchangeRate": 138.7,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 37,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره 35",
+        "quantity": 20,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853227",
+    "customerName": "السيد براهيم غزال المحترم",
+    "phone": "0944750600",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-06",
+    "checkNumber": "002047",
+    "bookNumber": "3",
+    "exchangeRate": 139,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 12.3,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "4اونص",
+        "quantity": 10,
+        "priceUsd": 0.46,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "الكا وسط",
+        "quantity": 10,
+        "priceUsd": 0.77,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
   }
 ],
 "daily":[
@@ -2631,6 +2827,54 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "كشف رقم 008675دفتر رقم 1\n30$"
+  },
+  {
+    "id": "1791314870318",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-06",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002046 دفتر رقم 3 \n25$"
+  },
+  {
+    "id": "1791314922554",
+    "customerName": "السيد ابراهيم غزال المحترم",
+    "date": "2026-10-06",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002047 دفتر رقم 3 \n12.30$"
+  },
+  {
+    "id": "1791314974880",
+    "customerName": "السيد عمر عساف المحترم",
+    "date": "2026-10-06",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002048دفتر رقم 3 \n129$"
+  },
+  {
+    "id": "1791315030728",
+    "customerName": "السيد عمر عساف المحترم",
+    "date": "2026-10-06",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 002049دفتر رقم 3 \n37$"
+  },
+  {
+    "id": "1791315086656",
+    "customerName": "السيد محمد قطان المحترم",
+    "date": "2026-10-06",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008676دفتر رقم 1\n71.25$"
+  },
+  {
+    "id": "1791315131055",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-06",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008677دفتر رقم 1\n90$\n1300ل.س.ج"
   }
 ],
 "debts":[],
