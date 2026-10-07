@@ -2657,6 +2657,58 @@
     "returnItems": [],
     "returnNotes": "",
     "notes": ""
+  },
+  {
+    "id": "1789757853228",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-07",
+    "checkNumber": "008678",
+    "bookNumber": "1",
+    "exchangeRate": 138.5,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 17.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×120اول",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853229",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-07",
+    "checkNumber": "002049",
+    "bookNumber": "3",
+    "exchangeRate": 140,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "totalAmountUsd": 19,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "80×120اول",
+        "quantity": 10,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
   }
 ],
 "daily":[
