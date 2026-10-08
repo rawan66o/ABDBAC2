@@ -2722,7 +2722,7 @@
     "bookNumber": "3",
     "exchangeRate": 139,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "totalAmountUsd": 29,
     "totalAmountSyp": 0,
     "items": [
@@ -2736,7 +2736,9 @@
     ],
     "returnItems": [],
     "returnNotes": "",
-    "notes": ""
+    "notes": "",
+    "netTotalUsd": 29,
+    "netTotalSyp": 0
   },
   {
     "id": "1789757853231",
@@ -3003,7 +3005,7 @@
     "customerName": "السيد انور غزال المحترم",
     "date": "2026-10-08",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "كشف رقم 00205دفتر رقم 3 \n29$"
   },
   {
