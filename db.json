@@ -619,7 +619,7 @@
   }
 ],
   "$schema": "./node_modules/json-server/schema.json",
-"checks": [
+"checks":[
   {
     "customerName": "السيد انور غزال المحترم",
     "phone": "0993814701",
@@ -2694,7 +2694,7 @@
     "bookNumber": "3",
     "exchangeRate": 140,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "totalAmountUsd": 19,
     "totalAmountSyp": 0,
     "items": [
@@ -2703,6 +2703,60 @@
         "specifications": "80×120اول",
         "quantity": 10,
         "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": "",
+    "netTotalUsd": 19,
+    "netTotalSyp": 0
+  },
+  {
+    "id": "1789757853230",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-08",
+    "checkNumber": "002050",
+    "bookNumber": "3",
+    "exchangeRate": 139,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "totalAmountUsd": 29,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "شليمون",
+        "specifications": "ملون كوكتيل",
+        "quantity": 10,
+        "priceUsd": 2.9,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853231",
+    "customerName": "السيد بكري حياني المحترم",
+    "phone": "",
+    "residence": "حلب- شارع السجن",
+    "date": "2026-10-08",
+    "checkNumber": "008679",
+    "bookNumber": "1",
+    "exchangeRate": 138.75,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 22,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "شليمون",
+        "specifications": "ملون كوكتيل",
+        "quantity": 10,
+        "priceUsd": 2.2,
         "priceSyp": 0
       }
     ],
@@ -2933,7 +2987,7 @@
     "customerName": "السيد انور غزال المحترم",
     "date": "2026-10-07",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "كشف رقم 002049 دفتر رقم 3\n19$"
   },
   {
@@ -2943,6 +2997,22 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "كشف رقم 008678 دفتر رقم 1\n17.5$"
+  },
+  {
+    "id": "1791452399948",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-08",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "كشف رقم 00205دفتر رقم 3 \n29$"
+  },
+  {
+    "id": "1791452444883",
+    "customerName": "السيد بكري حياني المحترم",
+    "date": "2026-10-08",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "كشف رقم 008679 دفتر رقم 1\n22$"
   }
 ],
 "debts":[],
