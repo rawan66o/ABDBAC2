@@ -2765,6 +2765,195 @@
     "returnItems": [],
     "returnNotes": "",
     "notes": ""
+  },
+  {
+    "id": "1789757853232",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-10",
+    "checkNumber": "003854",
+    "bookNumber": "4",
+    "exchangeRate": 141,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 19,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "100×150اسود",
+        "quantity": 10,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853233",
+    "customerName": "السيد ابو امين المحترم",
+    "phone": "0988539389",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-10",
+    "checkNumber": "003852",
+    "bookNumber": "4",
+    "exchangeRate": 141,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 27.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853234",
+    "customerName": "السيد ابو امين المحترم",
+    "phone": "0988539389",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-11",
+    "checkNumber": "003855",
+    "bookNumber": "4",
+    "exchangeRate": 141,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "totalAmountUsd": 14,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه رول زم ربطه",
+        "quantity": 10,
+        "priceUsd": 1.4,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853235",
+    "customerName": "السيد ماجد لاوند المحترم",
+    "phone": "0947235485",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-10",
+    "checkNumber": "003851",
+    "bookNumber": "4",
+    "exchangeRate": 141,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "totalAmountUsd": 27.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 1.1,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853236",
+    "customerName": "السيد محمد ملك سايس المحترم",
+    "phone": "0991313800",
+    "residence": "حلب-سليمان الحلبي",
+    "date": "2026-10-10",
+    "checkNumber": "003853",
+    "bookNumber": "4",
+    "exchangeRate": 141,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "totalAmountUsd": 9.25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×60شفاف",
+        "quantity": 5,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853237",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-10",
+    "checkNumber": "008681",
+    "bookNumber": "1",
+    "exchangeRate": 140,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 26.25,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "100×150اسود",
+        "quantity": 10,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "80×60شفاف",
+        "quantity": 5,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
+  },
+  {
+    "id": "1789757853238",
+    "customerName": "السيد حسام ناصر المحترم",
+    "phone": "0992197459",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-10-10",
+    "checkNumber": "008680",
+    "bookNumber": "1",
+    "exchangeRate": 141,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "totalAmountUsd": 47.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 50,
+        "priceUsd": 0.95,
+        "priceSyp": 0
+      }
+    ],
+    "returnItems": [],
+    "returnNotes": "",
+    "notes": ""
   }
 ],
 "daily":[
@@ -3015,6 +3204,46 @@
     "transactionType": "شراء",
     "paymentStatus": "مدفوع",
     "notes": "كشف رقم 008679 دفتر رقم 1\n22$"
+  },
+  {
+    "id": "1791708103719",
+    "customerName": "السيد ماجد لاوند المحترم",
+    "date": "2026-10-10",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 003851دفتر رقم 4\n27.5$"
+  },
+  {
+    "id": "1791708150037",
+    "customerName": "السيد ابو امين المحترم",
+    "date": "2026-10-10",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 003852دفتر رقم 4\n27.5$"
+  },
+  {
+    "id": "1791708194480",
+    "customerName": "السيد محمد ملك سايس المحترم",
+    "date": "2026-10-10",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "كشف رقم 003853دفتر رقم 4\n9.25$"
+  },
+  {
+    "id": "1791708242539",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-10",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "كشف رقم 003854دفتر رقم 4\n19$"
+  },
+  {
+    "id": "1791708305147",
+    "customerName": "السيد ابو امين المحترم",
+    "date": "2026-10-11",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "كشف رقم 003855دفتر رقم 4\n14$"
   }
 ],
 "debts":[],
