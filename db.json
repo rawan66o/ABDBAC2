@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 141,
+    "price_syp": 142,
     "quantity": "25-20",
     "id": "1"
   },
@@ -512,8 +512,8 @@
     "type": "النوع الاول",
     "size": "65×60",
     "color": "اسود",
-    "price_usd": 1.7,
-    "price_syp": 138.5,
+    "price_usd": 1.6,
+    "price_syp": 142,
     "quantity": "25-20",
     "id": "N-C87wA"
   },
@@ -616,6 +616,26 @@
     "price_syp": 138.5,
     "quantity": "25",
     "id": "Ehc1RPx"
+  },
+  {
+    "name": "اكياس قمامه رول زم ربطه ",
+    "type": "النوع الاول ",
+    "size": "65×75",
+    "color": "اسود",
+    "price_usd": 1.6,
+    "price_syp": 142,
+    "quantity": "50",
+    "id": "8hAnH3z"
+  },
+  {
+    "name": "اكياس قمامه رول زم ربطه ",
+    "type": "النوع الاول ",
+    "size": "40×70",
+    "color": "اسود",
+    "price_usd": 1.5,
+    "price_syp": 142,
+    "quantity": "50",
+    "id": "elQPY85"
   }
 ],
   "$schema": "./node_modules/json-server/schema.json",
@@ -2871,7 +2891,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853236",
     "customerName": "السيد محمد ملك سايس المحترم",
     "phone": "0991313800",
     "residence": "حلب-سليمان الحلبي",
@@ -2880,7 +2899,9 @@
     "bookNumber": "4",
     "exchangeRate": 141,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
     "totalAmountUsd": 9.25,
     "totalAmountSyp": 0,
     "items": [
@@ -2892,9 +2913,8 @@
         "priceSyp": 0
       }
     ],
-    "returnItems": [],
-    "returnNotes": "",
-    "notes": ""
+    "notes": "",
+    "id": "1789757853236"
   },
   {
     "id": "1789757853237",
@@ -3226,7 +3246,7 @@
     "customerName": "السيد محمد ملك سايس المحترم",
     "date": "2026-10-10",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "كشف رقم 003853دفتر رقم 4\n9.25$"
   },
   {
@@ -3244,6 +3264,15 @@
     "transactionType": "بيع",
     "paymentStatus": "غير مقبوض",
     "notes": "كشف رقم 003855دفتر رقم 4\n14$"
+  },
+  {
+    "id": "check-1789757853236",
+    "customerName": "السيد محمد ملك سايس المحترم",
+    "date": "2026-10-10",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003853",
+    "linkedCheckId": "1789757853236"
   }
 ],
 "debts":[],
