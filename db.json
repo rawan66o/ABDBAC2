@@ -2839,7 +2839,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853234",
     "customerName": "السيد ابو امين المحترم",
     "phone": "0988539389",
     "residence": "حلب-السريان القديمه",
@@ -2848,7 +2847,9 @@
     "bookNumber": "4",
     "exchangeRate": 141,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
     "totalAmountUsd": 14,
     "totalAmountSyp": 0,
     "items": [
@@ -2860,9 +2861,8 @@
         "priceSyp": 0
       }
     ],
-    "returnItems": [],
-    "returnNotes": "",
-    "notes": ""
+    "notes": "",
+    "id": "1789757853234"
   },
   {
     "id": "1789757853235",
@@ -3262,7 +3262,7 @@
     "customerName": "السيد ابو امين المحترم",
     "date": "2026-10-11",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "كشف رقم 003855دفتر رقم 4\n14$"
   },
   {
@@ -3273,6 +3273,15 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003853",
     "linkedCheckId": "1789757853236"
+  },
+  {
+    "id": "check-1789757853234",
+    "customerName": "السيد ابو امين المحترم",
+    "date": "2026-10-11",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003855",
+    "linkedCheckId": "1789757853234"
   }
 ],
 "debts":[],
