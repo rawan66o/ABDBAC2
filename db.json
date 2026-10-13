@@ -2974,6 +2974,58 @@
     "returnItems": [],
     "returnNotes": "",
     "notes": ""
+  },
+  {
+    "id": "1789757853239",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-12",
+    "checkNumber": "003856",
+    "bookNumber": "4",
+    "exchangeRate": 143,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 19,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "20×30 شفاف",
+        "quantity": 10,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853240",
+    "customerName": "السيد سامر زاكري المحترم",
+    "phone": "0938491263",
+    "residence": "حلب -الشعار",
+    "date": "2026-10-12",
+    "checkNumber": "008682",
+    "bookNumber": "1",
+    "exchangeRate": 141,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 18,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "20×30شفاف",
+        "quantity": 10,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -3282,6 +3334,23 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003855",
     "linkedCheckId": "1789757853234"
+  },
+  {
+    "id": "check-1789757853239",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-12",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003856"
+  },
+  {
+    "id": "check-1789757853240",
+    "customerName": "السيد سامر زاكري المحترم",
+    "date": "2026-10-12",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008682",
+    "linkedCheckId": "1789757853240"
   }
 ],
 "debts":[],
