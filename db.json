@@ -2976,7 +2976,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853239",
     "customerName": "السيد انور غزال المحترم",
     "phone": "0993814701",
     "residence": "حلب-السريان القديمه",
@@ -2985,7 +2984,7 @@
     "bookNumber": "4",
     "exchangeRate": 143,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 19,
@@ -2999,7 +2998,8 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853239"
   },
   {
     "id": "1789757853240",
@@ -3023,6 +3023,170 @@
         "quantity": 10,
         "priceUsd": 1.8,
         "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853241",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-13",
+    "checkNumber": "008683",
+    "bookNumber": "1",
+    "exchangeRate": 139,
+    "type": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 12.6,
+    "totalAmountSyp": 3645,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "شاي",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 95
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "قهوه",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 5
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "200ميلي",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 125
+      },
+      {
+        "productType": "كياس",
+        "specifications": "خساره ابيض 55",
+        "quantity": 5,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خبز نصف",
+        "quantity": 3,
+        "priceUsd": 1.7,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "حب الرمان",
+        "quantity": 3,
+        "priceUsd": 0,
+        "priceSyp": 240
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك موالح غطا نصف كيلو",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 14
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك غطا ربع كيلو",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 12
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك موالح مع غطا 100غ",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853242",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-14",
+    "checkNumber": "003857",
+    "bookNumber": "4",
+    "exchangeRate": 140,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 31.94,
+    "totalAmountSyp": 2900,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "شاي",
+        "quantity": 5,
+        "priceUsd": 0.75,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "قهوه",
+        "quantity": 5,
+        "priceUsd": 0.47,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "200ميلي",
+        "quantity": 5,
+        "priceUsd": 0.97,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "نصف خبز",
+        "quantity": 3,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "ابيض خساره 55",
+        "quantity": 5,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "حب الرمان",
+        "quantity": 3,
+        "priceUsd": 1.93,
+        "priceSyp": 0
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك موالح مع غطا",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 28
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك موالح مع غطا",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 16
+      },
+      {
+        "productType": "صحون",
+        "specifications": "بلاستيك موالح مع غطا",
+        "quantity": 50,
+        "priceUsd": 0,
+        "priceSyp": 14
       }
     ],
     "notes": ""
@@ -3351,6 +3515,24 @@
     "paymentStatus": "مدفوع",
     "notes": "مرتبطة بالكشف رقم #008682",
     "linkedCheckId": "1789757853240"
+  },
+  {
+    "id": "check-1789757853241",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-13",
+    "transactionType": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008683",
+    "linkedCheckId": "1789757853241"
+  },
+  {
+    "id": "check-1789757853242",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-14",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003857",
+    "linkedCheckId": "1789757853242"
   }
 ],
 "debts":[],
