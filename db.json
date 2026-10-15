@@ -3190,6 +3190,124 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853243",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-15",
+    "checkNumber": "003859",
+    "bookNumber": "4",
+    "exchangeRate": 139,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 460,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "قهوه",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 65
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "200ميلي",
+        "quantity": 1,
+        "priceUsd": 0,
+        "priceSyp": 135
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853244",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-15",
+    "checkNumber": "003858",
+    "bookNumber": "4",
+    "exchangeRate": 139,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 32,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×120 غنى",
+        "quantity": 20,
+        "priceUsd": 1.6,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853245",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-15",
+    "checkNumber": "008685",
+    "bookNumber": "1",
+    "exchangeRate": 139,
+    "type": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 375,
+    "items": [
+      {
+        "productType": "كاسات",
+        "specifications": "قهوه",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 50
+      },
+      {
+        "productType": "كاسات",
+        "specifications": "200ميلي",
+        "quantity": 1,
+        "priceUsd": 0,
+        "priceSyp": 125
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853246",
+    "customerName": "السيد حسام ناصر المحترم",
+    "phone": "0992197459",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-10-15",
+    "checkNumber": "008684",
+    "bookNumber": "1",
+    "exchangeRate": 139,
+    "type": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 20,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "80×120غنى",
+        "quantity": 20,
+        "priceUsd": 1,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -3533,6 +3651,42 @@
     "paymentStatus": "غير مقبوض",
     "notes": "مرتبطة بالكشف رقم #003857",
     "linkedCheckId": "1789757853242"
+  },
+  {
+    "id": "check-1789757853243",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-15",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003859",
+    "linkedCheckId": "1789757853243"
+  },
+  {
+    "id": "check-1789757853244",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-10-15",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003858",
+    "linkedCheckId": "1789757853244"
+  },
+  {
+    "id": "check-1789757853245",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-15",
+    "transactionType": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008685",
+    "linkedCheckId": "1789757853245"
+  },
+  {
+    "id": "check-1789757853246",
+    "customerName": "السيد حسام ناصر المحترم",
+    "date": "2026-10-15",
+    "transactionType": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008684",
+    "linkedCheckId": "1789757853246"
   }
 ],
 "debts":[],
