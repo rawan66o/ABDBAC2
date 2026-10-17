@@ -3110,7 +3110,6 @@
     "id": "1789757853241"
   },
   {
-    "id": "1789757853242",
     "customerName": "السيد انور غزال المحترم",
     "phone": "0993814701",
     "residence": "حلب-السريان القديمه",
@@ -3119,7 +3118,7 @@
     "bookNumber": "4",
     "exchangeRate": 140,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 31.94,
@@ -3189,10 +3188,10 @@
         "priceSyp": 14
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853242"
   },
   {
-    "id": "1789757853243",
     "customerName": "السيد انور غزال المحترم",
     "phone": "0993814701",
     "residence": "حلب-السريان القديمه",
@@ -3201,7 +3200,7 @@
     "bookNumber": "4",
     "exchangeRate": 139,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 0,
@@ -3222,10 +3221,10 @@
         "priceSyp": 135
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853243"
   },
   {
-    "id": "1789757853244",
     "customerName": "السيد عمرو عساف المحترم",
     "phone": "0950018677",
     "residence": "حلب- باب الفرج",
@@ -3234,7 +3233,7 @@
     "bookNumber": "4",
     "exchangeRate": 139,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 32,
@@ -3248,7 +3247,8 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853244"
   },
   {
     "customerName": "السيد محمد نحاس المحترم",
@@ -3700,7 +3700,7 @@
     "customerName": "السيد انور غزال المحترم",
     "date": "2026-10-14",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003857",
     "linkedCheckId": "1789757853242"
   },
@@ -3709,7 +3709,7 @@
     "customerName": "السيد انور غزال المحترم",
     "date": "2026-10-15",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003859",
     "linkedCheckId": "1789757853243"
   },
