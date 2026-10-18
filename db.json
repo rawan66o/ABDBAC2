@@ -3360,6 +3360,105 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853249",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-18",
+    "checkNumber": "003861",
+    "bookNumber": "4",
+    "exchangeRate": 140,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 25,
+    "totalAmountSyp": 2540,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "غنى قمامه",
+        "quantity": 25,
+        "priceUsd": 1,
+        "priceSyp": 0
+      },
+      {
+        "productType": "كفوف",
+        "specifications": "ملون",
+        "quantity": 3,
+        "priceUsd": 0,
+        "priceSyp": 480
+      },
+      {
+        "productType": "ورق",
+        "specifications": "صندويش",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 220
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853250",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-18",
+    "checkNumber": "008687",
+    "bookNumber": "1",
+    "exchangeRate": 140,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 2320,
+    "items": [
+      {
+        "productType": "ورق",
+        "specifications": "صندويش",
+        "quantity": 5,
+        "priceUsd": 0,
+        "priceSyp": 200
+      },
+      {
+        "productType": "كفوف",
+        "specifications": "ملون",
+        "quantity": 3,
+        "priceUsd": 0,
+        "priceSyp": 440
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853251",
+    "customerName": "السيد حسام ناصر المحترم",
+    "phone": "0992197459",
+    "residence": "حلب-المدينه-ساحة الفستق",
+    "date": "2026-10-18",
+    "checkNumber": "008688",
+    "bookNumber": "1",
+    "exchangeRate": 140,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 23.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "أكياس",
+        "specifications": "قمامه غنى",
+        "quantity": 25,
+        "priceUsd": 0.95,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -3756,6 +3855,33 @@
     "paymentStatus": "مدفوع",
     "notes": "مرتبطة بالكشف رقم #008686",
     "linkedCheckId": "1789757853248"
+  },
+  {
+    "id": "check-1789757853249",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-18",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003861",
+    "linkedCheckId": "1789757853249"
+  },
+  {
+    "id": "check-1789757853250",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-18",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008687",
+    "linkedCheckId": "1789757853250"
+  },
+  {
+    "id": "check-1789757853251",
+    "customerName": "السيد حسام ناصر المحترم",
+    "date": "2026-10-18",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008688",
+    "linkedCheckId": "1789757853251"
   }
 ],
 "debts":[],
