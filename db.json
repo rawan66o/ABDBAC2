@@ -3310,7 +3310,6 @@
     "id": "1789757853246"
   },
   {
-    "id": "1789757853247",
     "customerName": "السيد عمرو عساف المحترم",
     "phone": "0950018677",
     "residence": "حلب- باب الفرج",
@@ -3319,7 +3318,7 @@
     "bookNumber": "4",
     "exchangeRate": 140,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 0,
@@ -3333,7 +3332,8 @@
         "priceSyp": 210
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853247"
   },
   {
     "id": "1789757853248",
@@ -3455,6 +3455,105 @@
         "specifications": "قمامه غنى",
         "quantity": 25,
         "priceUsd": 0.95,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853252",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-20",
+    "checkNumber": "008689",
+    "bookNumber": "1",
+    "exchangeRate": 140,
+    "type": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 68.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره 35ابيض",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "أكياس",
+        "specifications": "خساره45ابيض",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف 50×80",
+        "quantity": 5,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853253",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-20",
+    "checkNumber": "003862",
+    "bookNumber": "4",
+    "exchangeRate": 141.5,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 74,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض35",
+        "quantity": 20,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره ابيض 45",
+        "quantity": 20,
+        "priceUsd": 1.85,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853254",
+    "customerName": "السيد انو علامو المحترم",
+    "phone": "0939212145",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-20",
+    "checkNumber": "003863",
+    "bookNumber": "4",
+    "exchangeRate": 141.5,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 9.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف 50×80",
+        "quantity": 5,
+        "priceUsd": 1.9,
         "priceSyp": 0
       }
     ],
@@ -3843,7 +3942,7 @@
     "customerName": "السيد عمرو عساف المحترم",
     "date": "2026-10-17",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003860",
     "linkedCheckId": "1789757853247"
   },
@@ -3882,6 +3981,33 @@
     "paymentStatus": "مدفوع",
     "notes": "مرتبطة بالكشف رقم #008688",
     "linkedCheckId": "1789757853251"
+  },
+  {
+    "id": "check-1789757853252",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-20",
+    "transactionType": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008689",
+    "linkedCheckId": "1789757853252"
+  },
+  {
+    "id": "check-1789757853253",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-10-20",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003862",
+    "linkedCheckId": "1789757853253"
+  },
+  {
+    "id": "check-1789757853254",
+    "customerName": "السيد انو علامو المحترم",
+    "date": "2026-10-20",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003863",
+    "linkedCheckId": "1789757853254"
   }
 ],
 "debts":[],
