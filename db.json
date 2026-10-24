@@ -3558,6 +3558,58 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853255",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-24",
+    "checkNumber": "008690",
+    "bookNumber": "1",
+    "exchangeRate": 142,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 43.75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "شفاف20×30",
+        "quantity": 25,
+        "priceUsd": 1.75,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853256",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-10-24",
+    "checkNumber": "003864",
+    "bookNumber": "4",
+    "exchangeRate": 143,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 47.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "كياس",
+        "specifications": "شفاف20×30",
+        "quantity": 25,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -4015,6 +4067,24 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #002041",
     "linkedCheckId": "1789757853217"
+  },
+  {
+    "id": "check-1789757853255",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-24",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008690",
+    "linkedCheckId": "1789757853255"
+  },
+  {
+    "id": "check-1789757853256",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-10-24",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003864",
+    "linkedCheckId": "1789757853256"
   }
 ],
 "debts":[],
