@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 144,
+    "price_syp": 143,
     "quantity": "25-20",
     "id": "1"
   },
@@ -3610,6 +3610,91 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853257",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-10-27",
+    "checkNumber": "008691",
+    "bookNumber": "1",
+    "exchangeRate": 143,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 47,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "65اول",
+        "quantity": 10,
+        "priceUsd": 1.7,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره مشكل",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853258",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-27",
+    "checkNumber": "003866",
+    "bookNumber": "4",
+    "exchangeRate": 143.5,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 19,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "65اول",
+        "quantity": 10,
+        "priceUsd": 1.9,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853259",
+    "customerName": "السيد جورج كيفو المحترم",
+    "phone": "0933131496",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-10-27",
+    "checkNumber": "003865",
+    "bookNumber": "4",
+    "exchangeRate": 144,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 36,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره مشكل",
+        "quantity": 20,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -4085,6 +4170,33 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003864",
     "linkedCheckId": "1789757853256"
+  },
+  {
+    "id": "check-1789757853257",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-10-27",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008691",
+    "linkedCheckId": "1789757853257"
+  },
+  {
+    "id": "check-1789757853258",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-10-27",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003866",
+    "linkedCheckId": "1789757853258"
+  },
+  {
+    "id": "check-1789757853259",
+    "customerName": "السيد جورج كيفو المحترم",
+    "date": "2026-10-27",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003865",
+    "linkedCheckId": "1789757853259"
   }
 ],
 "debts":[],
