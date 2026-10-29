@@ -3697,7 +3697,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853260",
     "customerName": "السيد ماجد لاوند المحترم",
     "phone": "0947235485",
     "residence": "حلب-السريان القديمه",
@@ -3706,7 +3705,7 @@
     "bookNumber": "4",
     "exchangeRate": 144,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 100,
@@ -3720,10 +3719,10 @@
         "priceSyp": 0
       }
     ],
-    "notes": "ضمن عرض ال 200كغ"
+    "notes": "ضمن عرض ال 200كغ",
+    "id": "1789757853260"
   },
   {
-    "id": "1789757853261",
     "customerName": "السيد ابو امين المحترم",
     "phone": "0988539389",
     "residence": "حلب-السريان القديمه",
@@ -3732,7 +3731,7 @@
     "bookNumber": "4",
     "exchangeRate": 144,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 100,
@@ -3746,7 +3745,8 @@
         "priceSyp": 0
       }
     ],
-    "notes": "ضمن عرض ال 200كغ"
+    "notes": "ضمن عرض ال 200كغ",
+    "id": "1789757853261"
   },
   {
     "id": "1789757853262",
@@ -4281,7 +4281,7 @@
     "customerName": "السيد ماجد لاوند المحترم",
     "date": "2026-10-29",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003868",
     "linkedCheckId": "1789757853260"
   },
@@ -4290,7 +4290,7 @@
     "customerName": "السيد ابو امين المحترم",
     "date": "2026-10-29",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003867",
     "linkedCheckId": "1789757853261"
   },
