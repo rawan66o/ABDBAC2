@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 144,
+    "price_syp": 145,
     "quantity": "25-20",
     "id": "1"
   },
@@ -3461,7 +3461,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853252",
     "customerName": "السيد محمد نحاس المحترم",
     "phone": "0962637157",
     "residence": "حلب-التلل",
@@ -3470,7 +3469,7 @@
     "bookNumber": "1",
     "exchangeRate": 140,
     "type": "شراء",
-    "paymentStatus": "غير مدفوع",
+    "paymentStatus": "مدفوع",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 68.75,
@@ -3498,7 +3497,8 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853252"
   },
   {
     "customerName": "السيد عمرو عساف المحترم",
@@ -3749,7 +3749,6 @@
     "id": "1789757853261"
   },
   {
-    "id": "1789757853262",
     "customerName": "السيد حسام ناصر المحترم",
     "phone": "0992197459",
     "residence": "حلب-المدينه-ساحة الفستق",
@@ -3758,7 +3757,7 @@
     "bookNumber": "1",
     "exchangeRate": 143,
     "type": "شراء",
-    "paymentStatus": "غير مدفوع",
+    "paymentStatus": "مدفوع",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 185,
@@ -3772,10 +3771,10 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853262"
   },
   {
-    "id": "1789757853263",
     "customerName": "السيد عمرو عساف المحترم",
     "phone": "0950018677",
     "residence": "حلب- باب الفرج",
@@ -3784,7 +3783,7 @@
     "bookNumber": "4",
     "exchangeRate": 144,
     "type": "بيع",
-    "paymentStatus": "غير مقبوض",
+    "paymentStatus": "مقبوض",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 146.25,
@@ -3805,7 +3804,8 @@
         "priceSyp": 0
       }
     ],
-    "notes": ""
+    "notes": "",
+    "id": "1789757853263"
   },
   {
     "id": "1789757853264",
@@ -3912,7 +3912,6 @@
     "notes": ""
   },
   {
-    "id": "1789757853268",
     "customerName": "السيد حسام ناصر المحترم",
     "phone": "0992197459",
     "residence": "حلب-المدينه-ساحة الفستق",
@@ -3921,7 +3920,7 @@
     "bookNumber": "1",
     "exchangeRate": 144,
     "type": "شراء",
-    "paymentStatus": "غير مدفوع",
+    "paymentStatus": "مدفوع",
     "returnForCheckId": "",
     "returnForCheckNumber": "",
     "totalAmountUsd": 115.63,
@@ -3932,6 +3931,59 @@
         "specifications": "قمامه غنى",
         "quantity": 125,
         "priceUsd": 0.925,
+        "priceSyp": 0
+      }
+    ],
+    "notes": "",
+    "id": "1789757853268"
+  },
+  {
+    "id": "1789757853269",
+    "customerName": "السيد سامر زاكري المحترم",
+    "phone": "0938491263",
+    "residence": "حلب -الشعار",
+    "date": "2026-11-03",
+    "checkNumber": "008696",
+    "bookNumber": "1",
+    "exchangeRate": 144,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 29,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره اسود45",
+        "quantity": 20,
+        "priceUsd": 1.45,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853270",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-11-03",
+    "checkNumber": "003872",
+    "bookNumber": "4",
+    "exchangeRate": 144.5,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 37,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "خساره اسود45",
+        "quantity": 20,
+        "priceUsd": 1.85,
         "priceSyp": 0
       }
     ],
@@ -4462,18 +4514,16 @@
     "customerName": "السيد حسام ناصر المحترم",
     "date": "2026-10-29",
     "transactionType": "شراء",
-    "paymentStatus": "غير مدفوع",
-    "notes": "مرتبطة بالكشف رقم #008692",
-    "linkedCheckId": "1789757853262"
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008692"
   },
   {
     "id": "check-1789757853263",
     "customerName": "السيد عمرو عساف المحترم",
     "date": "2026-11-01",
     "transactionType": "بيع",
-    "paymentStatus": "غير مقبوض",
-    "notes": "مرتبطة بالكشف رقم #003871",
-    "linkedCheckId": "1789757853263"
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003871"
   },
   {
     "id": "check-1789757853264",
@@ -4516,9 +4566,26 @@
     "customerName": "السيد حسام ناصر المحترم",
     "date": "2026-11-01",
     "transactionType": "شراء",
-    "paymentStatus": "غير مدفوع",
-    "notes": "مرتبطة بالكشف رقم #008695",
-    "linkedCheckId": "1789757853268"
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008695"
+  },
+  {
+    "id": "check-1789757853269",
+    "customerName": "السيد سامر زاكري المحترم",
+    "date": "2026-11-03",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008696",
+    "linkedCheckId": "1789757853269"
+  },
+  {
+    "id": "check-1789757853270",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-11-03",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003872",
+    "linkedCheckId": "1789757853270"
   }
 ],
 "debts":[],
