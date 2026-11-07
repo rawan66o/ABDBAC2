@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 145,
+    "price_syp": 147,
     "quantity": "25-20",
     "id": "1"
   },
@@ -3988,6 +3988,72 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853271",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-11-07",
+    "checkNumber": "008697",
+    "bookNumber": "1",
+    "exchangeRate": 145,
+    "type": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 61,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قلعجي ابيض",
+        "quantity": 20,
+        "priceUsd": 1.55,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره اسود35",
+        "quantity": 20,
+        "priceUsd": 1.5,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853272",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-11-07",
+    "checkNumber": "003873",
+    "bookNumber": "4",
+    "exchangeRate": 146,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 75,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس",
+        "specifications": "قلعجي ابيض 35",
+        "quantity": 20,
+        "priceUsd": 1.875,
+        "priceSyp": 0
+      },
+      {
+        "productType": "اكياس",
+        "specifications": "خساره اسود35",
+        "quantity": 20,
+        "priceUsd": 1.875,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -4586,6 +4652,24 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003872",
     "linkedCheckId": "1789757853270"
+  },
+  {
+    "id": "check-1789757853271",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-11-07",
+    "transactionType": "شراء",
+    "paymentStatus": "غير مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008697",
+    "linkedCheckId": "1789757853271"
+  },
+  {
+    "id": "check-1789757853272",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-11-07",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003873",
+    "linkedCheckId": "1789757853272"
   }
 ],
 "debts":[],
