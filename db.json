@@ -4132,6 +4132,58 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853276",
+    "customerName": "السيد بكري حياني المحترم",
+    "phone": "",
+    "residence": "حلب- شارع السجن",
+    "date": "2026-11-14",
+    "checkNumber": "008699",
+    "bookNumber": "1",
+    "exchangeRate": 150,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 4800,
+    "items": [
+      {
+        "productType": "معالق",
+        "specifications": "حليبي",
+        "quantity": 25,
+        "priceUsd": 0,
+        "priceSyp": 192
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853277",
+    "customerName": "السيد عمرو عساف المحترم",
+    "phone": "0950018677",
+    "residence": "حلب- باب الفرج",
+    "date": "2026-11-14",
+    "checkNumber": "003875",
+    "bookNumber": "4",
+    "exchangeRate": 150,
+    "type": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 5375,
+    "items": [
+      {
+        "productType": "معالق",
+        "specifications": "حليبي",
+        "quantity": 25,
+        "priceUsd": 0,
+        "priceSyp": 215
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -4775,6 +4827,24 @@
     "paymentStatus": "مدفوع",
     "notes": "مرتبطة بالكشف رقم #008698",
     "linkedCheckId": "1789757853275"
+  },
+  {
+    "id": "check-1789757853276",
+    "customerName": "السيد بكري حياني المحترم",
+    "date": "2026-11-14",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #008699",
+    "linkedCheckId": "1789757853276"
+  },
+  {
+    "id": "check-1789757853277",
+    "customerName": "السيد عمرو عساف المحترم",
+    "date": "2026-11-14",
+    "transactionType": "بيع",
+    "paymentStatus": "غير مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003875",
+    "linkedCheckId": "1789757853277"
   }
 ],
 "debts":[],
