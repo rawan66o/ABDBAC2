@@ -4453,6 +4453,58 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789757853288",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-11-23",
+    "checkNumber": "003881",
+    "bookNumber": "4",
+    "exchangeRate": 152.5,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 1695,
+    "items": [
+      {
+        "productType": "صحون الكا",
+        "specifications": "وسط",
+        "quantity": 15,
+        "priceUsd": 0,
+        "priceSyp": 113
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853289",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-11-23",
+    "checkNumber": "000853",
+    "bookNumber": "2",
+    "exchangeRate": 152,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 0,
+    "totalAmountSyp": 1425,
+    "items": [
+      {
+        "productType": "صحون الكا",
+        "specifications": "وسط",
+        "quantity": 15,
+        "priceUsd": 0,
+        "priceSyp": 95
+      }
+    ],
+    "notes": ""
   }
 ],
 "daily":[
@@ -5192,6 +5244,24 @@
     "paymentStatus": "مقبوض",
     "notes": "مرتبطة بالكشف رقم #003880",
     "linkedCheckId": "1789757853287"
+  },
+  {
+    "id": "check-1789757853288",
+    "customerName": "السيد انور غزال المحترم",
+    "date": "2026-11-23",
+    "transactionType": "بيع",
+    "paymentStatus": "مقبوض",
+    "notes": "مرتبطة بالكشف رقم #003881",
+    "linkedCheckId": "1789757853288"
+  },
+  {
+    "id": "check-1789757853289",
+    "customerName": "السيد محمد نحاس المحترم",
+    "date": "2026-11-23",
+    "transactionType": "شراء",
+    "paymentStatus": "مدفوع",
+    "notes": "مرتبطة بالكشف رقم #000853",
+    "linkedCheckId": "1789757853289"
   }
 ],
 "debts":[],
