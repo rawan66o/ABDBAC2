@@ -13,7 +13,7 @@
     "size": "25-30-35-40-45-55-65-75-85-95",
     "color": "أبيض - أسود",
     "price_usd": 1.9,
-    "price_syp": 153,
+    "price_syp": 154,
     "quantity": "25-20",
     "id": "1"
   },
@@ -4502,6 +4502,110 @@
         "quantity": 15,
         "priceUsd": 0,
         "priceSyp": 95
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853290",
+    "customerName": "السيد محمد قطان المحترم",
+    "phone": "0933501600",
+    "residence": "حلب -الفيض",
+    "date": "2026-11-25",
+    "checkNumber": "000854",
+    "bookNumber": "2",
+    "exchangeRate": 152.5,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 36,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "لزاق عريض",
+        "specifications": "صيني",
+        "quantity": 72,
+        "priceUsd": 0.5,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853291",
+    "customerName": "السيد محمد نحاس المحترم",
+    "phone": "0962637157",
+    "residence": "حلب-التلل",
+    "date": "2026-11-25",
+    "checkNumber": "000855",
+    "bookNumber": "2",
+    "exchangeRate": 152.5,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 9,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس مخابز",
+        "specifications": "نصف",
+        "quantity": 5,
+        "priceUsd": 1.8,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853292",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-11-25",
+    "checkNumber": "003882",
+    "bookNumber": "4",
+    "exchangeRate": 153,
+    "type": "شراء",
+    "paymentStatus": "مدفوع",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 69.12,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "لزاق عريض",
+        "specifications": "صيني",
+        "quantity": 72,
+        "priceUsd": 0.96,
+        "priceSyp": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789757853293",
+    "customerName": "السيد انور غزال المحترم",
+    "phone": "0993814701",
+    "residence": "حلب-السريان القديمه",
+    "date": "2026-11-25",
+    "checkNumber": "003883",
+    "bookNumber": "4",
+    "exchangeRate": 153,
+    "type": "بيع",
+    "paymentStatus": "مقبوض",
+    "returnForCheckId": "",
+    "returnForCheckNumber": "",
+    "totalAmountUsd": 9.5,
+    "totalAmountSyp": 0,
+    "items": [
+      {
+        "productType": "اكياس مخابز",
+        "specifications": "نصف كيس",
+        "quantity": 5,
+        "priceUsd": 1.9,
+        "priceSyp": 0
       }
     ],
     "notes": ""
